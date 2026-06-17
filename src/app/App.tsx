@@ -2134,6 +2134,11 @@ function ThankYouModule() {
         </p>
 
         <p> We hope you enjoyed engaging with it as much as we enjoyed building it!</p>
+
+        <p className="text-sm text-muted-foreground max-w-md mx-auto">
+          You can now safely exit this browser window
+        </p>
+
       </div>
     </div>
   );
